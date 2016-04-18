@@ -27,6 +27,7 @@ http://wiki.huihoo.com
 * [语音识别百科](http://wiki.huihoo.com/wiki/Speech_recognition)
 
 ### 机器人 Robot
+* [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [自动驾驶汽车百科](http://wiki.huihoo.com/wiki/Autonomous_car)
 * [Robot operating system百科](http://wiki.huihoo.com/wiki/Robot_operating_system)
 * [开放硬件百科](http://wiki.huihoo.com/wiki/Open_Hardware)
@@ -83,6 +84,7 @@ http://wiki.huihoo.com
 * [Awesome Programming Languages](https://github.com/sindresorhus/awesome#programming-languages) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) 各种编程语言的Awesome, 很丰富 :)
 * [Java百科](http://wiki.huihoo.com/wiki/Java)
 * [Go百科](http://wiki.huihoo.com/wiki/Go)
+* [Node.js百科](http://wiki.huihoo.com/wiki/Node.js)
 * [Python百科](http://wiki.huihoo.com/wiki/Python)
 * [PHP百科](http://wiki.huihoo.com/wiki/PHP)
 * [Ruby百科](http://wiki.huihoo.com/wiki/Ruby)
