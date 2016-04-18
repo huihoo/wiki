@@ -110,6 +110,23 @@ http://wiki.huihoo.com
 * [Swift百科](http://wiki.huihoo.com/wiki/Swift)
 * [R语言百科](http://wiki.huihoo.com/wiki/R_Project)
 
+## 开源项目社区百科 Community Wiki
+* [Linux Kernel Wiki](https://www.wiki.kernel.org/)
+* [Debian Wiki](https://wiki.debian.org/) 
+* [Ubuntu Wiki](https://wiki.ubuntu.com/) 和 [Ubuntu中文百科](http://wiki.ubuntu.com.cn)
+* [CentOS Wiki](http://wiki.centos.org)
+* [Fedora Wiki](https://fedoraproject.org/wiki)
+* [openSUSE Wiki](https://zh.opensuse.org)
+* [CyanogenMod Wiki](https://wiki.cyanogenmod.org)
+* [PostgreSQL Wiki](https://wiki.postgresql.org)
+* [FreeBSD Wiki](https://wiki.freebsd.org/) 和 [FreeBSDChina Wiki](https://wiki.freebsdchina.org/)
+* [ROS Wiki](http://wiki.ros.org/)
+* [Arch Linux Wiki](https://wiki.archlinux.org/)
+* [Apache Confluence wiki](http://cwiki.apache.org/) 和 [Apache MoinMoin wiki](https://wiki.apache.org/)
+* [Eclipse Wiki](https://wiki.eclipse.org)
+* [OpenStack Wiki](https://wiki.openstack.org/)
+* [OpenCV中文百科](http://wiki.opencv.org.cn)
+
 ## 欢迎参与
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
 
