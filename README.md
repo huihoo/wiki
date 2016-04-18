@@ -14,11 +14,14 @@ http://wiki.huihoo.com
 * [机器学习百科](http://wiki.huihoo.com/wiki/Machine_learning)
 * [深度学习百科](http://wiki.huihoo.com/wiki/Deep_learning)
 * [人工神经网络百科](http://wiki.huihoo.com/wiki/Artificial_neural_network)
+* [Torch百科](http://wiki.huihoo.com/wiki/Torch)
+* [Deeplearning4j百科](http://wiki.huihoo.com/wiki/Deeplearning4j)
  
 ### 计算机视觉 Computer Vision	
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [计算机视觉百科](http://wiki.huihoo.com/wiki/Computer_vision)
+* [OpenCV百科](http://wiki.huihoo.com/wiki/OpenCV)
 
 ### 自然语言处理 	Natural Language Processing
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
@@ -37,6 +40,7 @@ http://wiki.huihoo.com
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [数据科学百科](http://wiki.huihoo.com/wiki/Data_science)
+* [数据挖掘百科](http://wiki.huihoo.com/wiki/Data_mining)
 
 ### 大数据 Big Data
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
@@ -44,6 +48,13 @@ http://wiki.huihoo.com
 * [大数据百科](http://wiki.huihoo.com/wiki/Big_data)
 * [Hadoop百科](http://wiki.huihoo.com/wiki/Apache_Hadoop)
 * [Spark百科](http://wiki.huihoo.com/wiki/Apache_Spark)
+
+### 数据分析和商业智能 Data Analysis & Business Intelligence
+* [商业智能百科](http://wiki.huihoo.com/wiki/Business_intelligence)
+* [Countly移动分析百科](http://wiki.huihoo.com/wiki/Countly)
+* [Pentaho百科](http://wiki.huihoo.com/wiki/Pentaho)
+* [Greenplum百科](http://wiki.huihoo.com/wiki/Greenplum)
+* [Apache Kylin百科](http://wiki.huihoo.com/wiki/Apache_Kylin)
 
 ## 微服务和容器 Microservices & Container
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
