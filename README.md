@@ -6,7 +6,7 @@ http://wiki.huihoo.com
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [人工智能百科](http://wiki.huihoo.com/wiki/Artificial_intelligence)
 
-### 机器学习 & 深度学习 Machine Learning	& Deep Learning
+### 机器学习和深度学习 Machine Learning	& Deep Learning
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
@@ -44,9 +44,62 @@ http://wiki.huihoo.com
 * [Hadoop百科](http://wiki.huihoo.com/wiki/Apache_Hadoop)
 * [Spark百科](http://wiki.huihoo.com/wiki/Apache_Spark)
 
+## 微服务和容器 Microservices & Container
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+* [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+* [微服务百科](http://wiki.huihoo.com/wiki/Microservices)
+* [Docker百科](http://wiki.huihoo.com/wiki/Docker)
+
+## 数据库和存储 Database & Storage
+* [Awesome DB](https://github.com/numetriclabz/awesome-db) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+* [数据库百科](http://wiki.huihoo.com/wiki/Database)
+* [存储百科](http://wiki.huihoo.com/wiki/Storage)
+* [MySQL百科](http://wiki.huihoo.com/wiki/MySQL) 和 [MariaDB百科](http://wiki.huihoo.com/wiki/MariaDB)
+* [MongoDB百科](http://wiki.huihoo.com/wiki/MongoDB)
+* [Riak百科](http://wiki.huihoo.com/wiki/Riak)
+* [PostgreSQL百科](http://wiki.huihoo.com/wiki/PostgreSQL)
+* [Redis百科](http://wiki.huihoo.com/wiki/Redis)
+* [Couchbase百科](http://wiki.huihoo.com/wiki/Couchbase)
+* [Apache CouchDB百科](http://wiki.huihoo.com/wiki/Apache_CouchDB)
+* [Apache Cassandra百科](http://wiki.huihoo.com/wiki/Apache_Cassandra)
+* [Apache HBase百科](http://wiki.huihoo.com/wiki/Apache_HBase)
+* [ZFS百科](http://wiki.huihoo.com/wiki/ZFS)
+* [HDFS百科](http://wiki.huihoo.com/wiki/HDFS)
+* [Ceph百科](http://wiki.huihoo.com/wiki/Ceph)
+* [FreeNAS百科](http://wiki.huihoo.com/wiki/FreeNAS)
+
+## 云计算和数据中心 Cloud Computing & Data Center
+* [云计算百科](http://wiki.huihoo.com/wiki/Cloud_computing)
+* [OpenStack百科](http://wiki.huihoo.com/wiki/OpenStack)
+* [Apache CloudStack百科](http://wiki.huihoo.com/wiki/Apache_CloudStack)
+* [OpenShift百科](http://wiki.huihoo.com/wiki/OpenShift)
+* [Cloud Foundry百科](http://wiki.huihoo.com/wiki/Cloud_Foundry)
+* [Apache Stratos百科](http://wiki.huihoo.com/wiki/Apache_Stratos)
+* [Apache Mesos百科](http://wiki.huihoo.com/wiki/Apache_Mesos)
+* [Puppet百科](http://wiki.huihoo.com/wiki/Puppet)
+
+## 编程语言 Programming Language
+* [Awesome Programming Languages](https://github.com/sindresorhus/awesome#programming-languages) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) 各种编程语言的Awesome, 很丰富 :)
+* [Java百科](http://wiki.huihoo.com/wiki/Java)
+* [Go百科](http://wiki.huihoo.com/wiki/Go)
+* [Python百科](http://wiki.huihoo.com/wiki/Python)
+* [PHP百科](http://wiki.huihoo.com/wiki/PHP)
+* [Ruby百科](http://wiki.huihoo.com/wiki/Ruby)
+* [Erlang百科](http://wiki.huihoo.com/wiki/Erlang)
+* [Clojure百科](http://wiki.huihoo.com/wiki/Clojure)
+* [Scala百科](http://wiki.huihoo.com/wiki/Scala)
+* [Haskell百科](http://wiki.huihoo.com/wiki/Haskell)
+* [Lisp百科](http://wiki.huihoo.com/wiki/Lisp)
+* [Julia百科](http://wiki.huihoo.com/wiki/Julia)
+* [Rust百科](http://wiki.huihoo.com/wiki/Rust)
+* [Lua百科](http://wiki.huihoo.com/wiki/Lua)
+* [Swift百科](http://wiki.huihoo.com/wiki/Swift)
+* [R语言百科](http://wiki.huihoo.com/wiki/R_Project)
+
 ## 参与
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
 
 ## 授权方式
 
-[![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) 
+[![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
