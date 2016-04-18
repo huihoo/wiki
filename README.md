@@ -130,6 +130,5 @@ http://wiki.huihoo.com
 ## 欢迎参与
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
 
-## 授权方式
-
+## 许可方式
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
