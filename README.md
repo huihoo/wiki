@@ -97,7 +97,7 @@ http://wiki.huihoo.com
 * [Swift百科](http://wiki.huihoo.com/wiki/Swift)
 * [R语言百科](http://wiki.huihoo.com/wiki/R_Project)
 
-## 参与
+## 欢迎参与
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
 
 ## 授权方式
