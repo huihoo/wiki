@@ -118,6 +118,15 @@ http://wiki.huihoo.com
 * [Smalltalk](http://wiki.huihoo.com/wiki/Smalltalk) 和 [Scratch](http://wiki.huihoo.com/wiki/Scratch) 和 [Squeak](http://wiki.huihoo.com/wiki/Squeak) 和 [Squeak @ OLPC](http://wiki.huihoo.com/wiki/OLPC)
 * [Fortran](http://wiki.huihoo.com/wiki/Fortran)
 
+## 编辑器和集成开发环境 Editor & IDE
+* [Vim](http://wiki.huihoo.com/wiki/Vim)
+* [Emacs](http://wiki.huihoo.com/wiki/Emacs)
+* [Atom编辑器](http://wiki.huihoo.com/wiki/Atom_editor) 和 [Electron框架](http://wiki.huihoo.com/wiki/Electron_framework)
+* [Visual Studio Code](http://wiki.huihoo.com/wiki/Visual_Studio_Code)
+* [IntelliJ IDEA](http://wiki.huihoo.com/wiki/IntelliJ_IDEA)
+* [Eclipse](http://wiki.huihoo.com/wiki/Eclipse)
+* [Code::Blocks](http://wiki.huihoo.com/wiki/Code::Blocks)
+
 ## 开源项目社区百科 Community Wiki
 * [Linux Kernel Wiki](https://www.wiki.kernel.org/)
 * [Debian Wiki](https://wiki.debian.org/) 
