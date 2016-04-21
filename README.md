@@ -157,7 +157,8 @@ http://wiki.huihoo.com
 * [Eclipse](http://wiki.huihoo.com/wiki/Eclipse)
 * [Code::Blocks](http://wiki.huihoo.com/wiki/Code::Blocks)
 
-## 中间件 Middleware & Web Server & MOM & SOA & ESB & Workflow
+## 中间件 Middleware & MOM & SOA & ESB & Workflow & BPM
+* [Middleware](http://wiki.huihoo.com/wiki/Middleware) 和 [SOA](http://wiki.huihoo.com/wiki/SOA) 和 [ESB](http://wiki.huihoo.com/wiki/ESB) 和 [工作流](http://wiki.huihoo.com/wiki/Workflow) 和 [BPM](http://wiki.huihoo.com/wiki/BPM)
 * [Nginx Resources](https://github.com/fcambus/nginx-resources) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 * [Nginx](http://wiki.huihoo.com/wiki/Nginx)
 * [Apache HTTP Server](http://wiki.huihoo.com/wiki/Apache_HTTP_Server)
@@ -169,10 +170,25 @@ http://wiki.huihoo.com
 * [ICE](http://wiki.huihoo.com/wiki/ICE)
 * [ACE](http://wiki.huihoo.com/wiki/ACE) 和 [TAO](http://wiki.huihoo.com/wiki/TAO)
 * [OpenSplice](http://wiki.huihoo.com/wiki/OpenSplice)
+* [XMPP](http://wiki.huihoo.com/wiki/XMPP) 和 [AMQP](http://wiki.huihoo.com/wiki/AMQP) 和 [MQTT](http://wiki.huihoo.com/wiki/MQ_Telemetry_Transport)
+* [ZeroMQ](http://wiki.huihoo.com/wiki/ZeroMQ)
 * [Apache ActiveMQ](http://wiki.huihoo.com/wiki/Apache_ActiveMQ)
 * [Apache Kafka](http://wiki.huihoo.com/wiki/Apache_Kafka)
 * [RabbitMQ](http://wiki.huihoo.com/wiki/RabbitMQ)
 * [WSO2 Message Broker](http://wiki.huihoo.com/wiki/WSO2_Message_Broker)
+* [Apache CXF](http://wiki.huihoo.com/wiki/Apache_CXF)
+* [Apache Synapse](http://wiki.huihoo.com/wiki/Apache_Synapse)
+* [Apache Felix](http://wiki.huihoo.com/wiki/Apache_Felix)
+* [Apache ServiceMix](http://wiki.huihoo.com/wiki/Apache_ServiceMix)
+* [Mule](http://wiki.huihoo.com/wiki/Mule)
+* [Open ESB](http://wiki.huihoo.com/wiki/Open_ESB)
+* [WSO2 ESB](http://wiki.huihoo.com/wiki/WSO2_ESB)
+* [JBoss ESB](http://wiki.huihoo.com/wiki/JBoss_ESB)
+* [Activiti](http://wiki.huihoo.com/wiki/Activiti)
+* [JBPM](http://wiki.huihoo.com/wiki/JBPM)
+* [OptaPlanner](http://wiki.huihoo.com/wiki/OptaPlanner)
+* [Drools](http://wiki.huihoo.com/wiki/Drools)
+* [OpenRules](http://wiki.huihoo.com/wiki/OpenRules)
 
 ## 开源项目社区百科 Community Wiki
 * [Linux Kernel Wiki](https://www.wiki.kernel.org/)
