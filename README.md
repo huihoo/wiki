@@ -112,6 +112,7 @@ http://wiki.huihoo.com
 * [Apache CouchDB](http://wiki.huihoo.com/wiki/Apache_CouchDB)
 * [Apache Cassandra](http://wiki.huihoo.com/wiki/Apache_Cassandra)
 * [Apache HBase](http://wiki.huihoo.com/wiki/Apache_HBase)
+* [Alluxio](http://wiki.huihoo.com/wiki/Alluxio)
 * [ZFS](http://wiki.huihoo.com/wiki/ZFS)
 * [HDFS](http://wiki.huihoo.com/wiki/HDFS)
 * [Ceph](http://wiki.huihoo.com/wiki/Ceph)
