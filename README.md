@@ -105,6 +105,7 @@ http://wiki.huihoo.com
 * [存储](http://wiki.huihoo.com/wiki/Storage)
 * [MySQL](http://wiki.huihoo.com/wiki/MySQL) 和 [MariaDB](http://wiki.huihoo.com/wiki/MariaDB)
 * [MongoDB](http://wiki.huihoo.com/wiki/MongoDB)
+* [OrientDB](http://wiki.huihoo.com/wiki/OrientDB)
 * [Riak](http://wiki.huihoo.com/wiki/Riak)
 * [PostgreSQL](http://wiki.huihoo.com/wiki/PostgreSQL)
 * [Redis](http://wiki.huihoo.com/wiki/Redis)
