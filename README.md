@@ -250,3 +250,8 @@ http://wiki.huihoo.com
 
 ## 许可方式 License
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
+
+## 赞助本项目
+![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg)
+
+世界需要一杯热咖啡
