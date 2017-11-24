@@ -252,6 +252,6 @@ http://wiki.huihoo.com
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
 
 ## 赞助
-![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg)
+![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
 
-赞助灰狐，世界需要一杯热咖啡。
+赞助我们，灰狐需要一杯热咖啡。
