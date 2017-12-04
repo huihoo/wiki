@@ -228,7 +228,7 @@ http://wiki.huihoo.com
 * [Joomla](http://wiki.huihoo.com/wiki/Joomla)
 * 更多[ERP](http://wiki.huihoo.com/wiki/ERP)、[CMS](http://wiki.huihoo.com/wiki/CMS_and_Portal)
 
-## 开源项目社区百科 Community Wiki
+## 操作系统百科 Operating system wiki
 * [Linux Kernel Wiki](https://www.wiki.kernel.org/)
 * [Debian Wiki](https://wiki.debian.org/) 
 * [Ubuntu Wiki](https://wiki.ubuntu.com/) 和 [Ubuntu中文百科](http://wiki.ubuntu.com.cn)
@@ -239,7 +239,10 @@ http://wiki.huihoo.com
 * [FreeBSD Wiki](https://wiki.freebsd.org/) 和 [FreeBSDChina Wiki](https://wiki.freebsdchina.org/)
 * [ROS Wiki](http://wiki.ros.org/)
 * [Arch Linux Wiki](https://wiki.archlinux.org/)
+* [illumos Wiki](https://wiki.illumos.org)
 * [SmartOS Wiki](https://wiki.smartos.org)
+
+## 开源项目社区百科 Community Wiki
 * [PostgreSQL Wiki](https://wiki.postgresql.org)
 * [Apache Confluence wiki](http://cwiki.apache.org/) 和 [Apache MoinMoin wiki](https://wiki.apache.org/)
 * [Eclipse Wiki](https://wiki.eclipse.org)
