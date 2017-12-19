@@ -243,6 +243,7 @@ http://wiki.huihoo.com
 * [SmartOS Wiki](https://wiki.smartos.org)
 
 ## 开源项目社区百科 Community Wiki
+* [OpenJDK Wiki](https://wiki.openjdk.java.net)
 * [PostgreSQL Wiki](https://wiki.postgresql.org)
 * [Apache Confluence wiki](http://cwiki.apache.org/) 和 [Apache MoinMoin wiki](https://wiki.apache.org/)
 * [Eclipse Wiki](https://wiki.eclipse.org)
