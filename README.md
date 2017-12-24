@@ -249,6 +249,7 @@ http://wiki.huihoo.com
 * [Eclipse Wiki](https://wiki.eclipse.org)
 * [OpenStack Wiki](https://wiki.openstack.org/)
 * [OpenCV中文百科](http://wiki.opencv.org.cn)
+* [Ethereum Wiki](https://github.com/ethereum/wiki)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
