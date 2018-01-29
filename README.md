@@ -111,6 +111,7 @@ http://wiki.huihoo.com
 * [Riak](http://wiki.huihoo.com/wiki/Riak)
 * [PostgreSQL](http://wiki.huihoo.com/wiki/PostgreSQL)
 * [Redis](http://wiki.huihoo.com/wiki/Redis)
+* [Redisson](https://github.com/redisson/redisson/wiki)
 * [Couchbase](http://wiki.huihoo.com/wiki/Couchbase)
 * [Apache CouchDB](http://wiki.huihoo.com/wiki/Apache_CouchDB)
 * [Apache Cassandra](http://wiki.huihoo.com/wiki/Apache_Cassandra)
