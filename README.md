@@ -263,3 +263,5 @@ http://wiki.huihoo.com
 微信扫码加入我们
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
+
+[灰狐会员](https://wiki.huihoo.com/wiki/%E7%81%B0%E7%8B%90%E4%BC%9A%E5%91%98)
